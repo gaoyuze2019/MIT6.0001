@@ -10,7 +10,6 @@ So I started with'[MIT 6.100L Introduction to CS and Programming using Python](h
 ## Why English
 And this is the challenge to learn English as well,because I want to reach the goal of successfully immigration to Canada with myself and my family.
 The requirement of having PR card is [like this website](https://www.welcomebc.ca/immigrate-to-b-c/news). 
-> 1. 
-> 2. 
-
-
+> 1. The Master’s stream will be for recent graduates with master’s degrees from eligible post-secondary institutions, in any field of study.
+> 2. Graduates with a minimum one-year full-time job offer in a skilled occupation can register for this strea.
+> 3. A minimum of [Canadian Language Benchmark (CLB) 8 ](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html)is currently planned for the new graduate streams.
